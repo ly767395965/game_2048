@@ -1,0 +1,12 @@
+body {background-color: lemonchiffon;}
+
+.score {}
+.score div {float: left; height: 69px; border-radius:10px; line-height: 69px; color: #fff;font-family: "KaiTi"; text-align: center;}
+.score div:first-child {background-color: lightseagreen; width: 68%;margin: 0 1%; font-size: 22px;}
+.score div:nth-child(2) {background-color: #99CC99; width: 28%; margin: 0 1%;}
+#score {margin-left: 10px}
+
+.game_div {background-color: #CCFFFF; width: 100%; text-align: center;height: 500px}
+#game_box {background-color: #FFCC00; clear: both; margin-top: 15%; border-radius: 5px;}
+
+#tips {color: #CC9933; margin-top: 20px}
